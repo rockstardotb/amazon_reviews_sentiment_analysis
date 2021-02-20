@@ -2,7 +2,7 @@
 This is a self-guided mini project for COMP4448 at the University of Denver
 
 ## Dataset
-test.ft.txt.bz2 on kaggle at https://www.kaggle.com/bittlingmayer/amazonreviews
+train_40k.csv on kaggle at https://www.kaggle.com/kashnitsky/hierarchical-text-classification
 
 ## Dependencies
 jupyter-notebook
