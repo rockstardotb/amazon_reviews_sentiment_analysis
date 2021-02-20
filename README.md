@@ -6,9 +6,12 @@ test.ft.txt.bz2 on kaggle at https://www.kaggle.com/bittlingmayer/amazonreviews
 
 ## Dependencies
 jupyter-notebook
+
 python 3.9
+
 python dependencies can be found in the requirements.txt
 
 ## To Run
 cd /path/to/Mini_Project_Sentiment_Analysis.ipynb
+
 jupyter-notebook
